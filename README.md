@@ -27,6 +27,7 @@ Then you can change the number of body parts/sensors to your need.
 
 ## Citation
 If you find anything useful, consider citing
+```
 @inproceedings{wang2019learning,
   title={Learning temporal and bodily attention in protective movement behavior detection},
   author={Wang, Chongyang and Peng, Min and Olugbade, Temitayo A and Lane, Nicholas D and Williams, Amanda C De C and Bianchi-Berthouze, Nadia},
@@ -35,3 +36,4 @@ If you find anything useful, consider citing
   year={2019},
   organization={IEEE}
 }
+```
