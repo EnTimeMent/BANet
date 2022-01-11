@@ -1,6 +1,8 @@
 # BANet
 
-<img src="ACII_1.png" width="500x">
+<p align="center">
+<img src="ACII_1.png" width="500x"/>
+</p>
 
 ## Introduction
 This is for the paper 'Learning Bodily and Temporal Attention in Protective Movement Behavior Detection', presented at ACIIW'19.
